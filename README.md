@@ -17,4 +17,7 @@ De waardes van de P1 sensor worden via Domoticz gepublished op een URL. Die url 
 http://ipadresvanRPi:8080/json.htm?type=devices&rid=1 (voor electra)
 of rid=2 voor gas maar die rid hangt af van welke devices je nog meer aan Domoticz hebt gekoppeld.
 
+## Domoticz Set-up
+
+![P1 USB Definition](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_electricity.png)
 
