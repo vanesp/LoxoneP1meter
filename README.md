@@ -17,7 +17,44 @@ De waardes van de P1 sensor worden via Domoticz gepublished op een URL. Die url 
 http://ipadresvanRPi:8080/json.htm?type=devices&rid=1 (voor electra)
 of rid=2 voor gas maar die rid hangt af van welke devices je nog meer aan Domoticz hebt gekoppeld.
 
-## Domoticz Set-up
+## Domoticz Set-up of P1 Device
 
-![P1 USB Definition](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_electricity.png)
+![P1 Device](https://github.com/vanesp/LoxoneP1meter/blob/master/img/domoticz_p1.png)
 
+## Domoticz Devices
+
+![Devices](https://github.com/vanesp/LoxoneP1meter/blob/master/img/domoticz_devices.png)
+
+# Loxone Config
+
+## Blocks configuration
+
+![Blocks](https://github.com/vanesp/LoxoneP1meter/blob/master/img/loxone_config.png)
+
+## Virtual Device Eectricity
+
+![Virtual Input](https://github.com/vanesp/LoxoneP1meter/blob/master/img/virtual_inputs.png)
+
+## Electricity split into counter and usage
+
+![Counter](https://github.com/vanesp/LoxoneP1meter/blob/master/img/electricity.png)
+
+![Usage](https://github.com/vanesp/LoxoneP1meter/blob/master/img/usage.png)
+
+## Parameters of Electricity block
+
+![Loxone Block Electricity](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_electricity.png)
+
+## Virtual Device Gas
+
+![Virtual Input](https://github.com/vanesp/LoxoneP1meter/blob/master/img/virtual_input_gas.png)
+
+## Gas counter only
+
+In mijn installatie geeft de P1 meter slechts één keer per uur een update.
+
+![Counter](https://github.com/vanesp/LoxoneP1meter/blob/master/img/gas.png)
+
+## Parameters of Gas block
+
+![Loxone Block Gas](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_gas.png)
