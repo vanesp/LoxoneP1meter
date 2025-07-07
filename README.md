@@ -14,7 +14,7 @@ Het grote topic: http://www.domoticz.com/forum/viewtopic.php?f=14&t=4970
 
 Domoticz is misschien overkill, maar ik gebruik het ook om mijn weerstation waardes te bewaren en te koppelen aan Loxone (werkt heel goed).
 De waardes van de P1 sensor worden via Domoticz gepublished op een URL. Die url is: 
-http://ipadresvanRPi:8080/json.htm?type=devices&rid=1 (voor electra)
+http://ipadresvanRPi:8080/json.htm?type=command&param=getdevices&rid=1 (voor electra)
 of rid=2 voor gas maar die rid hangt af van welke devices je nog meer aan Domoticz hebt gekoppeld.
 
 ## Domoticz Set-up of P1 Device
