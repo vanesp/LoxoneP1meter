@@ -23,38 +23,38 @@ of rid=2 voor gas maar die rid hangt af van welke devices je nog meer aan Domoti
 
 ## Domoticz Devices
 
-![Devices](https://github.com/vanesp/LoxoneP1meter/blob/master/img/domoticz_devices.png)
+![Devices](img/domoticz_devices.png)
 
 # Loxone Config
 
 ## Blocks configuration
 
-![Blocks](https://github.com/vanesp/LoxoneP1meter/blob/master/img/loxone_config.png)
+![Blocks](img/loxone_config.png)
 
 ## Virtual Device Eectricity
 
-![Virtual Input](https://github.com/vanesp/LoxoneP1meter/blob/master/img/virtual_inputs.png)
+![Virtual Input](img/virtual_inputs.png)
 
 ## Electricity split into counter and usage
 
-![Counter](https://github.com/vanesp/LoxoneP1meter/blob/master/img/electricity.png)
+![Counter](img/electricity.png)
 
-![Usage](https://github.com/vanesp/LoxoneP1meter/blob/master/img/usage.png)
+![Usage](img/usage.png)
 
 ## Parameters of Electricity block
 
-![Loxone Block Electricity](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_electricity.png)
+![Loxone Block Electricity](img/block_electricity.png)
 
 ## Virtual Device Gas
 
-![Virtual Input](https://github.com/vanesp/LoxoneP1meter/blob/master/img/virtual_input_gas.png)
+![Virtual Input](img/virtual_input_gas.png)
 
 ## Gas counter only
 
 In mijn installatie geeft de P1 meter slechts één keer per uur een update.
 
-![Counter](https://github.com/vanesp/LoxoneP1meter/blob/master/img/gas.png)
+![Counter](img/gas.png)
 
 ## Parameters of Gas block
 
-![Loxone Block Gas](https://github.com/vanesp/LoxoneP1meter/blob/master/img/block_gas.png)
+![Loxone Block Gas](img/block_gas.png)
