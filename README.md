@@ -19,7 +19,7 @@ of rid=2 voor gas maar die rid hangt af van welke devices je nog meer aan Domoti
 
 ## Domoticz Set-up of P1 Device
 
-![P1 Device](https://github.com/vanesp/LoxoneP1meter/blob/master/img/domoticz_p1.png)
+![P1 Device](img/domoticz_p1.png)
 
 ## Domoticz Devices
 
